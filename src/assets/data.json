@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "date": "01/08/2023",
+      "title": "PORTFOLIO",
+      "description": "Stunning portfolio showcase built with React. Creativity, elegance, and innovation meet in every pixel. Explore my artistic journey now!",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2022/03/15/18/06/portfolio-7070886_1280.png"
+    },
+    {
+      "date": "01/07/2023",
+      "title": "WEBSITE BACKEND",
+      "description": "Developed the user authentication and authorization system, ensuring secure access to user accounts.Created an admin dashboard that enabled the admin to add products, manage inventory, and view summary and customer data.",
+      "url": "https://github.com/vipinsaini21/E-Commerce-Website-Backend",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/05/25/05/48/shopping-5217035_1280.png"
+    },
+    {
+      "date": "01/06/2023",
+      "title": "SMART STORE",
+      "description": "Created an admin dashboard through Strapi Headless CMS that enabled the admin to add products, manage inventory, and view summary and customer data also used Stripe to facilitate secure and seamless transactions.",
+      "url": "https://github.com/vipinsaini21/Smart-Store",
+      "imgSrc": "https://cdn.pixabay.com/photo/2021/12/27/19/28/e-commerce-6898102_1280.png"
+    },
+    {
+      "date": "01/05/2023",
+      "title": "YOUTUBE CLONE",
+      "description": "Developed a fully functional and fully responsive youtube clone single page application build with Reactjs, Tailwind CSS, RapidAPI(to get and put requests).It has features such as Search, Related Videos and plays videos in real time without lag.",
+      "url": "https://github.com/vipinsaini21/Youtube-Clone",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/01/13/21/23/coffee-3080834_1280.jpg"
+    }
+  ]
+}
