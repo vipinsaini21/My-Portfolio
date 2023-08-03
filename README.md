@@ -7,3 +7,9 @@ I've implemented Firebase to ensure secure data storage and real-time updates. W
 Visitors can easily navigate through sections, accessing detailed project descriptions and my skills. I've prioritized responsiveness, guaranteeing a seamless experience across all devices. 
 
 This website reflects my dedication to innovation and my commitment to delivering impactful solutions in the digital world.
+
+In the project folder, you can run:
+
+```bash
+  npm start
+```
