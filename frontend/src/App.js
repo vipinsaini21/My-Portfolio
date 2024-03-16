@@ -7,6 +7,7 @@ import About from './components/about/about';
 import Projects from './components/projects/projects';
 import Contact from './components/contact/contact';
 import Login from './components/login/login';
+import Loader from './components/loader/loader';
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { getUser, loadUser } from './actions/user';
@@ -27,7 +28,7 @@ function App() {
 	return (
 		<Router>
 			{loading ? (
-				<div>Loading</div>
+				<Loader />
 			) : (
 				<>
 					<Header />
