@@ -2,11 +2,10 @@
 	"name": "vipin-portfolio",
 	"version": "1.0.0",
 	"description": "",
-	"main": "server.js",
+	"main": "backend/server.js",
 	"type": "module",
 	"scripts": {
-		"dev": "nodemon server.js",
-		"build": "npm install --prefix ./frontend && npm run build --prefix ./frontend && npm install"
+		"dev": "nodemon backend/server.js"
 	},
 	"author": "",
 	"license": "ISC",
